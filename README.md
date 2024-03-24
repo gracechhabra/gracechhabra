@@ -4,7 +4,7 @@
 - 💞️ I'm passionate about both medicine and coding, and I'm eager to learn and contribute to projects in these areas.  As a beginner, I'm especially interested in finding collaborative opportunities where I can learn from experienced people.
 - 📫 How to reach me: gracechhabra@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a die hard fan of badminton and I love sports!
+- ⚡ Fun fact: I am a die hard badminton fan and I love sports!
 
 <!---
 gracechhabra/gracechhabra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
