@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gracechhabra
 - 👀 I’m interested in artificial intelligence, machine learning, biology, and computer science in general. I am hoping to create computer science projects related to medicine.
 - 🌱 I’m currently learning python and how to create a NBA stat tracker!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm passionate about both medicine and coding, and I'm eager to learn and contribute to projects in these areas.  As a beginner, I'm especially interested in finding collaborative opportunities where I can learn from experienced people.
 - 📫 How to reach me: gracechhabra@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a die hard fan of badminton and I love sports!
