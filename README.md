@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gracechhabra
-- 👀 I’m interested in artificial intelligence, machine learning, biology, and computer science in general. I am hoping to create computer science projects related to medicine.
+- 👀 I’m interested in artificial intelligence, cybersecurity, biology, and computer science in general. I am hoping to create computer science projects related to medicine.
 - 🌱 I’m currently learning cloud computing and am interested in AI and ML! I have done a variety of projects in this field
 - 💞️ I'm passionate about both medicine and coding, and I'm eager to learn and contribute to projects in these areas.  As a beginner, I'm especially interested in finding collaborative opportunities where I can learn from experienced people.
 - 📫 How to reach me: gracechhabra@gmail.com
